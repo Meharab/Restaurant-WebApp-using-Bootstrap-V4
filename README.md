@@ -1,4 +1,6 @@
-# Bootstrap 4
+# Responsive Restaurant Webapp using HTML, SCSS, jQuery & Bootstrap Version 4
+
+# Boostrap Overview
 bootstrap grid system,
 Information Architecture,
 Navigation Bar Design,
@@ -72,3 +74,12 @@ gulp-rev,
 gulp-clean-css,
 gulp-flatmap,
 gulp-htmlmin)
+# PREVIEW
+## Laptop View
+![p1](https://github.com/Meharab/Restaurant-Webapp-using-Bootstrap-V4/blob/main/_G__web-dev_bootstrap_project_resturent_Bootstrap4_conFusion_aboutus.html%20(2).png)
+## Desktop View
+![p2](https://github.com/Meharab/Restaurant-Webapp-using-Bootstrap-V4/blob/main/_G__web-dev_bootstrap_project_resturent_Bootstrap4_conFusion_aboutus.html.png)
+## Mobile View
+![p3](https://github.com/Meharab/Restaurant-Webapp-using-Bootstrap-V4/blob/main/_G__web-dev_bootstrap_project_resturent_Bootstrap4_conFusion_contactus.html(iPhone%204).png)
+## Tablet View
+![p4](https://github.com/Meharab/Restaurant-Webapp-using-Bootstrap-V4/blob/main/_G__web-dev_bootstrap_project_resturent_Bootstrap4_conFusion_index.html(iPad%20Mini).png)
